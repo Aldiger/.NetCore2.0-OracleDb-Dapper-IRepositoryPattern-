@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NetCoreOracle/bin/Debug/netcoreapp2.0
+/NetCoreOracle/obj/Debug/netcoreapp2.0
+/NetCoreOracle/obj
+/DataAccess/obj
+/DataAccess/bin/Debug/netcoreapp2.0
+/.vs

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreOracle", "NetCoreOracle\NetCoreOracle.csproj", "{4266B5D6-C300-4794-86F8-24368B9CE499}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{A8D7965C-02F9-43B5-AEAC-4EA780059EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4266B5D6-C300-4794-86F8-24368B9CE499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4266B5D6-C300-4794-86F8-24368B9CE499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4266B5D6-C300-4794-86F8-24368B9CE499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4266B5D6-C300-4794-86F8-24368B9CE499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D7965C-02F9-43B5-AEAC-4EA780059EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D7965C-02F9-43B5-AEAC-4EA780059EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D7965C-02F9-43B5-AEAC-4EA780059EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D7965C-02F9-43B5-AEAC-4EA780059EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E0FC52-55BE-4A7D-9044-9D75DD2C2A4D}
+	EndGlobalSection
+EndGlobal
